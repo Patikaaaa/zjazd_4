@@ -1,0 +1,5 @@
+print("obliczanie pola prostokanta")
+sideA= input("Podaj dlugosc pierwszego boku (sideA)")
+sideB=input("Podaj dlugosc drugiego boku (sideB)")
+area=int(sideA)*int(sideB)
+print("pole prostokanta wynosi" + str(area))
